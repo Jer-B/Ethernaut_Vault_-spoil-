@@ -54,7 +54,7 @@ contract.unlock("0x412076657279207374726f6e67207365637265742070617373776f7264203
 
 <br/>
 <p align="center">
-<img src="./images/transact.png" width="300" alt="Ethernaut Vault completed">
+<img src="./images/transact.png" width="1100" alt="Ethernaut Vault completed">
 </p>
 <br/>
 
@@ -124,7 +124,7 @@ contract.unlock("0x412076657279207374726f6e67207365637265742070617373776f7264203
 
 <br/>
 <p align="center">
-<img src="./images/transact.png" width="300" alt="Ethernaut Vault completed">
+<img src="./images/transact.png" width="1100" alt="Ethernaut Vault completed">
 </p>
 <br/>
 
